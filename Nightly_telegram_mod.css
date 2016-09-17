@@ -1,5 +1,4 @@
 @namespace url(http://www.w3.org/1999/xhtml);
-
 @-moz-document domain("web.telegram.org") {
 body, .modal-content{
     color:#bbb !important;
@@ -80,9 +79,9 @@ body, .modal-content{
     }
     
     @keyframes im_message_focus_fade{
-0% { /*soft transaction*/
-    background-color: #2d2d2d;
-}
+        0% { /*soft transaction*/
+            background-color: #2d2d2d;
+        }
     }
     .btn-primary {
     background-color: #4d4d4d;
