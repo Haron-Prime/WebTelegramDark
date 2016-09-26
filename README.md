@@ -2,7 +2,7 @@
 
 My mod by Nightly Telegram style
 
-# License 
+#### License -  http://www.wtfpl.net/
 
 ```
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
