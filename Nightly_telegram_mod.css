@@ -19,11 +19,11 @@ a.tg_checkbox {
 }
 
 .im_message_body {
-    background: #303030 !important
+    background: inherit !important;
 }
 
 .im_message_document_thumbed {
-    background: #303030 !important
+    background: inherit !important;
 }
 
 .im_dialog_peer {
