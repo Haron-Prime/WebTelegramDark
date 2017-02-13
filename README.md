@@ -1,6 +1,6 @@
 # Nightly_telegram_mod
 
-My mod by Nightly Telegram style
+My mod by Nightly Telegram style - https://userstyles.org/styles/132781/nightly-telegram-modP
 
 #### Some screenshots
 
