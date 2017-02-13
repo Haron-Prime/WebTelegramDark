@@ -58,7 +58,8 @@ a.tg_checkbox {
     color: #bbb !important;
 }
 .composer_rich_textarea {
-    background: inherit !important;
+        background: #303030 !important;
+        border-color: #bbb !important;
 }
 .im_dialogs_col_wrap {
     /*contactlist right border*/
