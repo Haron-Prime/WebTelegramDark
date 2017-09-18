@@ -3,7 +3,6 @@ Author - Haron Prime
 License © 2017 WTFPL http://www.wtfpl.net*/
 
 @namespace url(http://www.w3.org/1999/xhtml);
-@-moz-document domain("web.telegram.org") {
 body,
 .modal-content {
     color: #bbb !important;
@@ -22,10 +21,10 @@ a.tg_checkbox {
     box-shadow: none;
 }
 
-.im_message_body {
-    background: inherit !important;
-}
-
+.im_message_body,
+.im_attach,
+.im_media_attach,
+.im_record,
 .im_message_document_thumbed {
     background: inherit !important;
 }
@@ -57,7 +56,6 @@ a.tg_checkbox {
 }
 .form-control {
     /*input field*/
-    
     background-color: #0e0e0e !important;
     color: #bbb !important;
 }
@@ -134,5 +132,4 @@ a:hover {
 .dropdown-menu {
     background-color: #4d4d4d !important;
     border-color: #5d5d5d;
-}
 }
