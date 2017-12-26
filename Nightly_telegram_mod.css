@@ -1,8 +1,4 @@
-/*Nightly_telegram_mod
-Author - Haron Prime
-License © 2017 WTFPL http://www.wtfpl.net*/
-
-@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document domain("web.telegram.org") {
 body,
 .modal-content {
     color: #bbb !important;
@@ -25,7 +21,9 @@ a.tg_checkbox {
 .im_attach,
 .im_media_attach,
 .im_record,
-.im_message_document_thumbed {
+.im_record:hover,
+.im_message_document_thumbed,
+.composer_emoji_panel a.composer_emoji_btn {
     background: inherit !important;
 }
 
@@ -132,4 +130,5 @@ a:hover {
 .dropdown-menu {
     background-color: #4d4d4d !important;
     border-color: #5d5d5d;
+}
 }
