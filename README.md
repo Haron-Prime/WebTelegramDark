@@ -1,8 +1,8 @@
-# Nightly_telegram_mod
+# WebTelegramDark
 
 My mod by Nightly Telegram style
 
-https://userstyles.org/styles/132781/nightly-telegram-mod
+https://userstyles.org/styles/132781/web-telegram-dark
 
 #### Some screenshots
 
