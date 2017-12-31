@@ -8,7 +8,7 @@ https://userstyles.org/styles/132781/web-telegram-dark
 
 ![](/screenshots/telegram-web.png?raw=true)
 
-#### License - WTFPL © 2017  http://www.wtfpl.net/
+### License - [WTFPL](http://www.wtfpl.net/ "WTFPL") 
 
 ```
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
