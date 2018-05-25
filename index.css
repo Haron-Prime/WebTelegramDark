@@ -72,6 +72,11 @@ a.tg_checkbox {
     
     background-color: #4d4d4d !important;
 }
+code, pre {
+    background-color: #bbb !important;
+    color: #0e0e0e;
+    border: none !important;
+}
 .tg_head_split {
     background-color: #151515;
 }
