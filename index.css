@@ -1,4 +1,4 @@
-@-moz-document domain("web.telegram.org") {
+@-moz-document domain("web.telegram.org"), domain("web.tlgrm.eu") {
 body,
 .modal-content {
     color: #bbb !important;
