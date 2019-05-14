@@ -145,5 +145,14 @@ a:hover {
 .im_history_select_active .im_message_outer_wrap:hover {
     background-color: #4d4d4d !important;
 }
+    
+.reply_markup_button {
+    color: #FFFFFF; !important;
+    background-color: #666666 !important;
+}
+.reply_markup_button:focus, .reply_markup_button:hover{
+    color: #FFFFFF; !important;
+    background-color: #4d4d4d !important;
+}
 
 }
