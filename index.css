@@ -155,4 +155,10 @@ a:hover {
     background-color: #4d4d4d !important;
 }
 
+.tg_head_logo_dropdown .dropdown-menu > li > a,
+.dropdown-menu>li>a, .dropdown-menu>li>a,
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+    color: #FFFFFF !important;
+}
+
 }
