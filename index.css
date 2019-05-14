@@ -137,4 +137,13 @@ a:hover {
     background-color: #4d4d4d !important;
     border-color: #5d5d5d;
 }
+
+.im_dialog_badge.badge {
+    background-color: #bfbfbf30 !important;
+}
+.im_message_selected .im_message_outer_wrap,
+.im_history_select_active .im_message_outer_wrap:hover {
+    background-color: #4d4d4d !important;
+}
+
 }
