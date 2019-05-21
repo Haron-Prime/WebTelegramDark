@@ -137,4 +137,28 @@ a:hover {
     background-color: #4d4d4d !important;
     border-color: #5d5d5d;
 }
+
+.im_dialog_badge.badge {
+    background-color: #bfbfbf30 !important;
+}
+.im_message_selected .im_message_outer_wrap,
+.im_history_select_active .im_message_outer_wrap:hover {
+    background-color: #4d4d4d !important;
+}
+    
+.reply_markup_button {
+    color: #FFFFFF !important;
+    background-color: #666666 !important;
+}
+.reply_markup_button:focus, .reply_markup_button:hover{
+    color: #FFFFFF !important;
+    background-color: #4d4d4d !important;
+}
+
+.tg_head_logo_dropdown .dropdown-menu > li > a,
+.dropdown-menu>li>a, .dropdown-menu>li>a,
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+    color: #FFFFFF !important;
+}
+
 }
